@@ -11,6 +11,6 @@ Training meterial and Demos
 7. Automatic Memory Management with Gargage Collection.
 8. Interoperability with COM components. 
 9. Advanced Debugging concepts
-  - Debugging Server Apps
-  - Creating and Analyzing a Dump
+    - Debugging Server Apps
+    - Creating and Analyzing a Dump
 10. Exception Handling
