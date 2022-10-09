@@ -14,3 +14,6 @@ Training meterial and Demos
     - Debugging Server Apps
     - Creating and Analyzing a Dump
 10. Exception Handling
+
+# Software requirements
+1. Visual Studio 2019 or later
