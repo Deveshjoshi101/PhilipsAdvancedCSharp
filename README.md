@@ -1,5 +1,5 @@
 # PhilipsAdvancedCSharp
-Training meterial and Demos
+Training material and Demos
 
 # Topics Covered:
 1. Delegates and Events
